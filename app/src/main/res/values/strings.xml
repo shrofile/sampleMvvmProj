@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sampleMvvmProj</string>
+
+    <string name="error_loading_people">There seems to have been some error.</string>
+    <string name="default_loading_people">Press the button to load people!</string>
+
+</resources>
